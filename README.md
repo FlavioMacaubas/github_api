@@ -1,6 +1,6 @@
 # github_api
 
-Projetos e estudos com GitHub API para automa├º├úo e engenharia de dados.
+Automação e integração com a API do GitHub para casos práticos.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
