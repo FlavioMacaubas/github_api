@@ -60,16 +60,15 @@ cd github_api
 
 ## Estrutura do repositório
 
-`	ext
+```text
 github_api/
-├── notebooks/   # quando aplicável
-├── src/         # quando aplicável
-├── data/        # quando aplicável
-└── README.md
-`
+|-- README.md
+|-- src/         # quando aplicável
+|-- notebooks/   # quando aplicável
+`-- data/        # quando aplicável
+```
 
 ---
-
 ## Licença
 
 Este projeto é disponibilizado para fins de **portfólio** e aprendizado. Ajuste a licença conforme sua necessidade.
